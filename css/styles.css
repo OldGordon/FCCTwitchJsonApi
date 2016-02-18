@@ -60,7 +60,7 @@ h2 {
 }
 
 #user {
-  background-color: red;
+  background-color: tomato;
   padding: 30px;
 }
 
@@ -71,5 +71,5 @@ h2 {
 }
 
 .message {
-  color: black;
+  color: ghostwhite;
 }
