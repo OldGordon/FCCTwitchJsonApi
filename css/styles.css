@@ -58,3 +58,18 @@ h1 {
 h2 {
   font-size: 36px;
 }
+
+#user {
+  background-color: red;
+  padding: 30px;
+}
+
+.logo {
+  width: 50px;
+  heigth: 50px;
+  border-radius: 50%;
+}
+
+.message {
+  color: black;
+}
